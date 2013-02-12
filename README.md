@@ -43,8 +43,8 @@ word made up of other words in the list.  The program should then
 
 go on to report how many of the words in the list can be constructed.
 
-What is in it?
-==============
+How?
+====
 
 Using Google concurrent tree api I have created a radix tree and also 
 created a HashSet for set of all input word list. Then I used a HashMap
