@@ -1,7 +1,7 @@
 Longest-Concatenated-Word
 =========================
 
-This is a common coding puzzle when interviewing from Aspera, Inc.
+This is a common coding puzzle when interviewing for Aspera, Inc.
 
 Write a program that reads a file containing a sorted list of words (one
 
